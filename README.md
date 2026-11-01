@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Nisa-q/Nisa-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hayrunnisa Sümer! 👋
 
-Here are some ideas to get you started:
+🎓 **Software Engineering Student at Karabuk University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about learning, building projects, and exploring new technologies.
+
+## 👩‍💻 About Me
+
+- 🎓 I'm studying Software Engineering at Karabuk University.
+- 🤖 I'm interested in Artificial Intelligence and its applications.
+- 📱 I'm interested in Mobile Application Development.
+- 🐍 I enjoy learning and working with Python.
+- 🌐 I'm exploring Web Development.
+- 🚀 I'm continuously improving my programming skills through projects.
+
+## 🛠️ Areas of Interest
+
+- Artificial Intelligence (AI)
+- Mobile Application Development
+- Python Programming
+- Web Development
+- Software Engineering
+
+## 📂 My Projects
+
+Here are some projects from my GitHub repositories:
+
+- [ROV Control System](https://github.com/Nisa-q/ROV-Control-System) — Python project
+- [Peri Bale](https://github.com/Nisa-q/peri_bale) — HTML project
+
+I'm continuously working on improving my projects and documentation.
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hayrunnisa-sumer/)
+- 💻 [GitHub](https://github.com/Nisa-q)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
