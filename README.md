@@ -1,9 +1,9 @@
 
-# Hi there, I'm Hayrunnisa Sümer! 👋
+# Hi there, I'm Hayrunnisa Sümer
 
-🎓 **Software Engineering Student at Karabuk University**
+ **Software Engineering Student at Karabuk University**
 
-💻 Passionate about learning, building projects, and exploring new technologies.
+💻Passionate about learning, building projects, and exploring new technologies.
 
 ## 👩‍💻 About Me
 
