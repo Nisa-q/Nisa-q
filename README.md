@@ -46,9 +46,9 @@ You can explore all my projects, experiments, and learning journey on GitHub.
 | Project | Focus | Status |
 | --- | --- | --- |
 | [TechStore DevOps](https://github.com/Nisa-q/techstore-devops) | Flask, tests, Docker and CI/CD configuration | Learning project |
-| [ROV Control System](https://github.com/Nisa-q/ROV-Control-System) | Python control interface and simulated telemetry | Prototype; PID module missing from repository |
-| [Peri Bale](https://github.com/Nisa-q/peri_bale) | HTML, CSS and JavaScript website | Frontend project |
-| [Web Crawler](https://github.com/Nisa-q/backend) | Katana crawler architecture | Documentation; application code not included |
+| [ROV Control System](https://github.com/Nisa-q/rov-control-system) | Python control interface and simulated telemetry | TEKNOFEST prototype; selected modules withheld during the competition |
+| [Peri Bale](https://github.com/Nisa-q/peri-bale) | HTML, CSS and JavaScript website | Frontend project |
+| [Web Crawler](https://github.com/Nisa-q/web-crawler) | Katana crawler architecture | Documentation; application code not included |
 
 [Proje düzeni standardım (Türkçe)](docs/project-standards.md)
 
