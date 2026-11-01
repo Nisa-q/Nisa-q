@@ -9,14 +9,14 @@
 
 ---
 
-##  About Me
+##  About Me🌌
 
-- 🌌 I'm a Software Engineering student at Karabuk University.
-- 🌌 I'm interested in Artificial Intelligence and its applications.
-- 🌌 I'm exploring Mobile Application Development.
-- 🌌 I'm gaining programming experience through Python projects.
-- 🌌 I'm interested in developing modern web applications.
-- 🌌 I enjoy learning new technologies and turning ideas into projects.
+- I'm a Software Engineering student at Karabuk University.
+- I'm interested in Artificial Intelligence and its applications.
+- I'm exploring Mobile Application Development.
+- I'm gaining programming experience through Python projects.
+- I'm interested in developing modern web applications.
+- I enjoy learning new technologies and turning ideas into projects.
 
 ---
 
